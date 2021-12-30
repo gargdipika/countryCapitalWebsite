@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.background-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-container {
+  background-color: #ffffff;
+  padding: 20px;
+  width: 80vh;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+.capital-description {
+  display: flex;
+}
+.select-style {
+  height: 30px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.country {
+  font-weight: 600;
+}
